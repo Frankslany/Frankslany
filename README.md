@@ -104,3 +104,7 @@
 <img src="https://raw.githubusercontent.com/Frankslany/Frankslany/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h5 align="left">--------------------------------------------------------------------------<br>Sistema para internet(Graduado)<br><br>Engenheiro de Software(Cursando)<br>--------------------------------------------------------------------------<br>Pós-graduação em Desenvolvimento De Jogos Digitais<br>Pós-graduação em Desenvolvimento De Aplicações Para Dispositivos Móveis (App´s)<br>Pós-graduação em Desenvolvimento De Aplicações.net<br>Pós-graduação em Desenvolvimento Em Aplicações Web<br><br>Pós-graduação em Tecnologia Da Informação<br>Pós-graduação em Segurança Da Informação<br>Pós-graduação em Sistema De Informação<br><br>Pós-graduação em Inteligência Artificial<br><br>Pós-graduação em Arquitetura E Gestão De Infraestrutura Em TI<br>Pós-graduação em Arquitetura E Infraestrutura De T.I<br>--------------------------------------------------------------------------<br>-> Criando mundos em códigos e visuais impactantes para mercado! <-</h5>
+
+###
